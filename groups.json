@@ -1,0 +1,30 @@
+[
+{
+    "id": 1,
+    "side": "Backend",
+    "language": "NodeJS",
+    "students": 15,
+    "teacher": 1
+},
+{
+    "id": 2,
+    "side": "Backend",
+    "language": "JS",
+    "students": 11,
+    "teacher": 2
+},
+{
+    "id": 3,
+    "side": "Backend",
+    "language": "Python",
+    "students": 20,
+    "teacher": 3
+},
+{
+    "id": 4,
+    "side": "Frontend",
+    "language": "JS",
+    "students": 11,
+    "teacher": 1
+}
+]
